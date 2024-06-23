@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
     ```sh
     git clone https://github.com/Sreeharij/Enhanced-GUI-for-Pip-Installer.git
-    cd pip-installer-gui
+    cd Enhanced-GUI-for-Pip-Installer
     ```
 
 2. Install the required packages:
