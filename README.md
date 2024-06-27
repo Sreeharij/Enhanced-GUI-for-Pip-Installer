@@ -44,6 +44,7 @@ Before you begin, ensure you have met the following requirements:
 3. The top 10 search results from PyPI will be displayed.
 
 4. Select a package from the list (it's corresponding package name will be typed out in the search bar) and choose to install, upgrade, or uninstall it.
+5. Clicking on "Visit" would take you to the corresponding website.
 
 ## Interface
 ![Main Interface](screenshots/interface.png)
